@@ -1,0 +1,547 @@
+SCA,,SCA Types,,,,,,GCA,,GCA Types,,,,,,,,,,,,,,
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,TO,Sh,Fld,Def,
+1,Abner,br BRA,DF,Juventude,21-079,2004,5.5,1,0.18,1,0,0,0,0,0,1,0.18,1,0,0,0,0,0,
+2,NicolÃ¡s Acevedo,uy URU,MF,DF,Bahia,26-084,1999,3.3,2,0.6,1,0,0,1,0,0,1,0.3,1,0,0,0,0,0
+3,Adson,br BRA,FW,MF,Vasco da Gama,24-274,2000,2.3,10,4.29,9,0,1,0,0,0,0,0,0,0,0,0,0,0
+4,Braian Aguirre,ar ARG,DF,Internacional,24-344,2000,10.9,16,1.47,14,0,0,1,0,1,0,0,0,0,0,0,0,0,
+5,Carlos Alberto,br BRA,FW,MF,Sport Recife,23-084,2002,3.7,9,2.45,8,0,0,0,0,1,0,0,0,0,0,0,0,0
+6,Yuri Alberto,br BRA,FW,Corinthians,24-111,2001,8.1,21,2.6,11,0,3,3,4,0,2,0.25,1,0,1,0,0,0,
+7,JosÃ© Aldo,br BRA,MF,Mirassol,26-347,1998,5.2,16,3.08,12,0,3,0,0,1,1,0.19,1,0,0,0,0,0,
+8,Caio Alexandre,br BRA,MF,Bahia,26-133,1999,8.2,20,2.43,19,1,0,0,0,0,1,0.12,1,0,0,0,0,0,
+9,Matheus Alexandre,br BRA,DF,Sport Recife,26-091,1999,2,1,0.51,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+10,Alisson,br BRA,MF,SÃ£o Paulo,32-012,1993,10.3,22,2.13,21,0,0,1,0,0,1,0.1,1,0,0,0,0,0,
+11,Allan,br BRA,MF,Flamengo,28-126,1997,1.3,2,1.5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+12,Allan,br BRA,DF,MF,Palmeiras,21-079,2004,2,6,2.95,6,0,0,0,0,0,1,0.49,1,0,0,0,0,0
+13,Allan,br BRA,MF,FW,Botafogo (RJ),34-180,1991,2.2,6,2.78,5,0,0,1,0,0,0,0,0,0,0,0,0,0
+14,Allanzinho,br BRA,MF,FW,Fortaleza,25-094,2000,1.2,3,2.43,2,0,0,0,1,0,1,0.81,1,0,0,0,0,0
+15,JÃºnior Alonso,py PAR,DF,AtlÃ©tico Mineiro,32-148,1993,11.2,15,1.33,15,0,0,0,0,0,1,0.09,1,0,0,0,0,0,
+16,Matheus Alves,br BRA,MF,FW,SÃ£o Paulo,20-124,2005,4.1,11,2.67,7,0,2,2,0,0,1,0.24,1,0,0,0,0,0
+17,Francis Amuzu,be BEL,FW,GrÃªmio,25-318,1999,4.4,17,3.87,12,0,3,2,0,0,0,0,0,0,0,0,0,0,
+18,Felipe Anderson,br BRA,DF,MF,Palmeiras,32-083,1993,4.9,15,3.08,10,1,0,2,0,2,2,0.41,0,0,0,2,0,0
+19,Kervin Andrade,ve VEN,FW,MF,Fortaleza,20-085,2005,0.9,5,5.29,1,0,2,2,0,0,1,1.06,1,0,0,0,0,0
+20,JosÃ© AndrÃ©s MartÃ­nez,ve VEN,MF,Corinthians,30-334,1994,4.8,7,1.47,7,0,0,0,0,0,1,0.21,1,0,0,0,0,0,
+21,Wilker Ãngel,ve VEN,DF,Juventude,32-111,1993,4,3,0.75,2,0,0,1,0,0,0,0,0,0,0,0,0,0,
+22,Fabrizio Angileri,ar ARG,DF,Corinthians,31-114,1994,6.3,6,0.95,6,0,0,0,0,0,1,0.16,1,0,0,0,0,0,
+23,Anthoni,br BRA,GK,Internacional,23-165,2002,11.5,1,0.09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+24,Marcos AntÃ´nio,br BRA,MF,SÃ£o Paulo,25-024,2000,5.8,8,1.37,8,0,0,0,0,0,1,0.17,1,0,0,0,0,0,
+25,Guilherme Arana,br BRA,DF,AtlÃ©tico Mineiro,28-084,1997,3,14,4.72,10,2,0,2,0,0,0,0,0,0,0,0,0,0,
+26,Luiz AraÃºjo,br BRA,FW,MF,Flamengo,29-037,1996,5.4,13,2.4,7,5,0,1,0,0,1,0.18,1,0,0,0,0,0
+27,Matheus AraÃºjo,br BRA,MF,FW,CearÃ¡,23-048,2002,2,3,1.47,2,0,0,1,0,0,1,0.49,1,0,0,0,0,0
+28,Michel Araujo,uy URU,MF,Bahia,28-284,1996,1.7,6,3.51,6,0,0,0,0,0,0,0,0,0,0,0,0,0,
+29,Alexander Aravena,cl CHI,MF,FW,GrÃªmio,22-306,2002,1.9,4,2.14,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Robert Arboleda,ec ECU,DF,SÃ£o Paulo,33-260,1991,7,1,0.14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+31,Lucas Arcanjo,br BRA,GK,VitÃ³ria,26-335,1998,11,3,0.27,3,0,0,0,0,0,0,0,0,0,0,0,0,0,
+32,Matias Arezo,uy URU,FW,GrÃªmio,22-230,2002,2.3,7,3.01,7,0,0,0,0,0,2,0.86,2,0,0,0,0,0,
+33,Jhon Arias,co COL,FW,Fluminense,27-291,1997,11,60,5.46,39,10,5,1,4,1,8,0.73,6,0,2,0,0,0,
+34,Santiago Arias,co COL,DF,Bahia,33-177,1992,1.3,4,3.03,3,0,0,1,0,0,0,0,0,0,0,0,0,0,
+35,Arthur,br BRA,FW,Sport Recife,22-119,2003,2.2,9,4.05,7,0,0,1,1,0,0,0,0,0,0,0,0,0,
+36,Artur,br BRA,FW,MF,Botafogo (RJ),27-144,1998,8.6,35,4.06,30,1,1,1,2,0,4,0.46,4,0,0,0,0,0
+37,Rodrigo Atencio,ar ARG,FW,MF,Sport Recife,23-009,2002,2.2,13,5.85,10,1,1,1,0,0,0,0,0,0,0,0,0,0
+38,Loide Augusto,ao ANG,FW,MF,Vasco da Gama,25-133,2000,2,6,3.07,5,0,1,0,0,0,0,0,0,0,0,0,0,0
+39,Leo Augusto Pereira,br BRA,FW,MF,VitÃ³ria,25-010,2000,1.8,5,2.73,2,1,0,1,1,0,0,0,0,0,0,0,0,0
+40,Renato Augusto,br BRA,MF,FW,Fluminense,37-151,1988,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,GastÃ³n Ãvila,ar ARG,DF,Fortaleza,23-282,2001,2.1,3,1.4,1,1,0,0,1,0,0,0,0,0,0,0,0,0,
+42,Aylon,br BRA,FW,CearÃ¡,33-093,1992,2.5,8,3.23,6,0,2,0,0,0,2,0.81,1,0,1,0,0,0,
+43,Matheus Babi,br BRA,FW,Juventude,27-356,1997,1.2,3,2.5,2,0,0,0,1,0,0,0,0,0,0,0,0,0,
+44,Matheus Bahia,br BRA,DF,CearÃ¡,25-332,1999,6.9,14,2.04,10,3,0,0,1,0,1,0.15,1,0,0,0,0,0,
+45,Gabriel Baralhas,br BRA,MF,DF,VitÃ³ria,26-272,1998,7.9,13,1.64,12,0,0,0,1,0,2,0.25,2,0,0,0,0,0
+46,Danilo Barbosa,br BRA,DF,MF,Botafogo (RJ),29-131,1996,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Diogo Barbosa,br BRA,DF,FW,Fortaleza,32-326,1992,3.4,6,1.76,5,0,0,0,1,0,0,0,0,0,0,0,0,0
+48,Gabriel Barbosa,br BRA,FW,MF,Cruzeiro,28-313,1996,3.5,7,2.01,6,0,0,1,0,0,3,0.86,2,0,0,1,0,0
+49,Lucas Barbosa,br BRA,FW,RB Bragantino,24-137,2001,7.2,7,0.98,5,0,0,0,2,0,4,0.56,3,0,0,0,1,0,
+50,Alexander Barboza,ar ARG,DF,Botafogo (RJ),30-115,1995,5,5,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,
+51,Chrystian Barletta,br BRA,FW,MF,Sport Recife,24-004,2001,8.8,24,2.74,13,1,4,2,3,1,0,0,0,0,0,0,0,0
+52,Ãlvaro Barreal,ar ARG,FW,MF,Santos,24-326,2000,6.6,18,2.73,12,3,0,2,1,0,1,0.15,1,0,0,0,0,0
+53,Enmerson Batalla,co COL,FW,MF,Juventude,24-009,2001,9.1,17,1.88,13,1,1,1,1,0,1,0.11,1,0,0,0,0,0
+54,Paulo Baya,br BRA,MF,FW,Fluminense,25-348,1999,0.4,1,2.37,1,0,0,0,0,0,1,2.37,1,0,0,0,0,0
+55,JosÃ© Luis RodrÃ­guez Bebanz,uy URU,DF,Vasco da Gama,28-117,1997,2.3,6,2.63,6,0,0,0,0,0,0,0,0,0,0,0,0,0,
+56,Luis Benedetti,br BRA,DF,Palmeiras,19-032,2006,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+57,Alexandro Bernabei,ar ARG,DF,Internacional,24-288,2000,7.9,32,4.06,26,0,1,2,1,2,2,0.25,2,0,0,0,0,0,
+58,Facundo Bernal,uy URU,MF,Fluminense,21-322,2003,3.3,3,0.91,2,0,1,0,0,0,0,0,0,0,0,0,0,0,
+59,Bernard,br BRA,FW,MF,AtlÃ©tico Mineiro,32-304,1992,2.4,15,6.28,12,0,1,0,1,1,0,0,0,0,0,0,0,0
+60,Matheus Bianqui,br BRA,MF,FW,Mirassol,27-159,1998,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Matheus Bidu,br BRA,DF,MF,Corinthians,26-066,1999,4,11,2.75,9,1,0,0,1,0,2,0.5,1,0,0,0,1,0
+62,DamiÃ¡n Bobadilla,py PAR,MF,SÃ£o Paulo,23-363,2001,4.4,12,2.7,10,0,0,0,1,1,0,0,0,0,0,0,0,0,
+63,Yannick Bolasie,cd COD,FW,Cruzeiro,36-046,1989,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+64,Gabriel Bontempo,br BRA,MF,FW,Santos,20-174,2005,5.4,15,2.75,13,0,0,0,2,0,2,0.37,2,0,0,0,0,0
+65,Thiago Borbas,uy URU,FW,MF,RB Bragantino,23-093,2002,1.4,3,2.13,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+66,Daniel Borges,br BRA,DF,Mirassol,32-108,1993,2.7,7,2.58,4,2,1,0,0,0,0,0,0,0,0,0,0,0,
+67,Marllon Borges,br BRA,DF,CearÃ¡,33-084,1992,11,4,0.36,1,0,0,2,1,0,0,0,0,0,0,0,0,0,
+68,Pedro Borges,br BRA,MF,Fortaleza,28-128,1997,0.4,1,2.43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+69,Rafael BorrÃ©,co COL,FW,Internacional,29-297,1995,3.6,7,1.92,3,0,2,0,1,1,2,0.55,1,0,1,0,0,0,
+70,Lucas Braga,br BRA,FW,MF,VitÃ³ria,28-241,1996,2.7,3,1.1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,Martin Braithwaite,dk DEN,FW,GrÃªmio,34-034,1991,9.1,28,3.07,20,0,1,4,2,1,3,0.33,1,0,1,0,1,0,
+72,Gabriel BrazÃ£o,br BRA,GK,Santos,24-277,2000,12,2,0.17,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+73,Breno,br BRA,FW,Fortaleza,29-166,1996,5,31,6.15,16,3,5,2,5,0,1,0.2,0,0,0,0,1,0,
+74,Breno,br BRA,MF,Corinthians,20-139,2005,9.1,16,1.76,13,2,0,0,0,1,1,0.11,1,0,0,0,0,0,
+75,Emanuel BrÃ­tez,ar ARG,DF,Fortaleza,33-105,1992,1,4,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,
+76,Bruninho,br BRA,MF,Fortaleza,20-028,2005,0.8,1,1.32,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+77,FabrÃ­cio Bruno,br BRA,DF,Cruzeiro,29-147,1996,11,8,0.73,6,0,0,1,0,1,0,0,0,0,0,0,0,0,
+78,CacÃ¡,br BRA,DF,Corinthians,26-075,1999,7.7,4,0.52,4,0,0,0,0,0,1,0.13,1,0,0,0,0,0,
+79,RaÃºl CÃ¡ceres,py PAR,DF,VitÃ³ria,33-294,1991,2,2,1.01,1,0,0,1,0,0,0,0,0,0,0,0,0,0,
+80,Calebe,br BRA,MF,Fortaleza,25-070,2000,2.4,8,3.3,3,4,0,0,1,0,1,0.41,1,0,0,0,0,0,
+81,Jonathan Calleri,ar ARG,FW,SÃ£o Paulo,31-289,1993,1.3,3,2.23,2,0,0,0,1,0,0,0,0,0,0,0,0,0,
+82,Camilo,br BRA,MF,GrÃªmio,26-136,1999,4.4,4,0.91,3,0,0,1,0,0,1,0.23,0,0,0,1,0,0,
+83,GermÃ¡n Cano,ar ARG,FW,Fluminense,37-157,1988,5.3,5,0.95,3,0,0,1,1,0,0,0,0,0,0,0,0,0,
+84,AgustÃ­n Canobbio,uy URU,FW,Fluminense,26-281,1998,5.7,10,1.75,7,0,0,2,1,0,2,0.35,0,0,0,1,1,0,
+85,Juninho Capixaba,br BRA,DF,RB Bragantino,28-003,1997,11,36,3.27,28,5,0,2,1,0,2,0.18,2,0,0,0,0,0,
+86,Johan Carbonero,co COL,FW,Internacional,25-354,1999,1.7,5,2.94,3,0,0,0,2,0,0,0,0,0,0,0,0,0,
+87,Edson Carioca,br BRA,FW,Mirassol,28-005,1997,6.2,22,3.54,17,0,3,2,0,0,3,0.48,3,0,0,0,0,0,
+88,Igor CariÃºs,br BRA,DF,Sport Recife,32-069,1993,7.2,12,1.67,9,1,0,0,1,1,1,0.14,1,0,0,0,0,0,
+89,Carlinhos,br BRA,FW,VitÃ³ria,28-147,1997,1.5,3,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,
+90,Antonio Carlos,br BRA,DF,Sport Recife,32-124,1993,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+91,Jean Carlos Vicente,br BRA,MF,FW,Juventude,33-144,1992,2.3,7,3.1,4,1,1,0,0,1,0,0,0,0,0,0,0,0
+92,AndrÃ© Carrillo,pe PER,MF,Corinthians,34-025,1991,6.8,22,3.24,19,1,0,1,0,1,3,0.44,3,0,0,0,0,0,
+93,Gabriel Carvalho,br BRA,FW,Internacional,17-326,2007,0.8,2,2.5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+94,CÃ¡ssio,br BRA,GK,Cruzeiro,38-033,1987,12,1,0.08,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+95,Iury de Castilho,br BRA,FW,Mirassol,29-306,1995,5.5,11,1.98,8,0,0,2,1,0,3,0.54,0,0,0,2,1,0,
+96,Murilo Cerqueira,br BRA,DF,Palmeiras,28-104,1997,3.7,1,0.27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+97,Kayky Chagas,br BRA,FW,MF,Bahia,22-028,2003,2.1,10,4.81,6,0,3,0,1,0,3,1.44,1,0,1,0,1,0
+98,Chico,br BRA,MF,Mirassol,34-053,1991,1.4,5,3.49,3,0,0,0,1,1,2,1.4,0,0,0,0,1,1,
+99,Chico,br BRA,DF,Sport Recife,26-298,1998,10.5,11,1.05,10,0,0,0,0,1,1,0.1,1,0,0,0,0,0,
+100,Christian,br BRA,FW,Cruzeiro,24-202,2000,7.7,20,2.6,16,0,0,3,1,0,3,0.39,2,0,0,1,0,0,
+101,Claudinho,br BRA,DF,VitÃ³ria,24-288,2000,8.7,19,2.18,15,0,2,1,1,0,1,0.11,1,0,0,0,0,0,
+102,Clayson,br BRA,FW,Mirassol,30-112,1995,2.8,13,4.57,7,3,2,1,0,0,2,0.7,1,0,0,1,0,0,
+103,Clayton,br BRA,DF,Internacional,25-096,2000,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+104,Mateus CocÃ£o,br BRA,MF,Vasco da Gama,23-113,2002,3.1,4,1.27,3,0,0,1,0,0,0,0,0,0,0,0,0,0,
+105,Igor Coronado,br BRA,MF,Corinthians,32-325,1992,3.8,14,3.68,9,1,2,1,1,0,3,0.79,3,0,0,0,0,0,
+106,Philippe Coutinho,br BRA,MF,Vasco da Gama,33-027,1992,6.6,34,5.12,22,5,2,2,3,0,1,0.15,1,0,0,0,0,0,
+107,Franco Cristaldo,ar ARG,MF,FW,GrÃªmio,28-328,1996,5.8,31,5.32,17,8,1,2,3,0,2,0.34,1,1,0,0,0,0
+108,Gustavo Cuellar,co COL,MF,GrÃªmio,32-268,1992,0.9,1,1.06,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+109,TomÃ¡s Cuello,ar ARG,FW,MF,AtlÃ©tico Mineiro,25-126,2000,7.5,48,6.42,30,1,7,4,4,2,0,0,0,0,0,0,0,0
+110,Cuiabano,br BRA,DF,MF,Botafogo (RJ),22-143,2003,6.2,12,1.95,11,1,0,0,0,0,2,0.32,2,0,0,0,0,0
+111,Lucas Cunha,br BRA,DF,Sport Recife,28-167,1997,4.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+112,Danielzinho,br BRA,MF,FW,Mirassol,30-247,1994,11,39,3.55,31,3,0,2,3,0,4,0.36,4,0,0,0,0,0
+113,Danilo,br BRA,DF,Flamengo,33-359,1991,2.6,5,1.9,5,0,0,0,0,0,2,0.76,2,0,0,0,0,0,
+114,Matheus DavÃ³,br BRA,FW,MF,Mirassol,25-327,1999,0.4,2,5.14,1,0,0,1,0,0,1,2.57,1,0,0,0,0,0
+115,Giorgian De Arrascaeta,uy URU,MF,Flamengo,31-038,1994,7.5,29,3.84,15,5,4,2,2,1,9,1.19,1,2,3,0,2,1,
+116,NicolÃ¡s De La Cruz,uy URU,MF,Flamengo,28-038,1997,6.2,20,3.21,15,5,0,0,0,0,3,0.48,2,1,0,0,0,0,
+117,Deyverson,br BRA,FW,Fortaleza,34-062,1991,5.2,18,3.46,12,1,0,2,3,0,1,0.19,1,0,0,0,0,0,
+118,Enzo DÃ­az,ar ARG,DF,SÃ£o Paulo,29-214,1995,8.1,23,2.82,18,4,1,0,0,0,1,0.12,0,1,0,0,0,0,
+119,Lautaro DÃ­az,ar ARG,FW,MF,Cruzeiro,27-049,1998,0.8,3,3.55,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,Dieguinho,br BRA,MF,CearÃ¡,29-251,1995,10.7,18,1.68,12,0,2,0,3,1,5,0.47,4,0,1,0,0,0,
+121,Dieguinho,br BRA,FW,Corinthians,17-358,2007,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+122,Dodi,br BRA,MF,GrÃªmio,29-083,1996,8.4,7,0.83,4,0,0,1,0,2,1,0.12,0,0,0,0,0,1,
+123,Fabricio DomÃ­nguez,uy URU,MF,Sport Recife,27-015,1998,1.1,1,0.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+124,Matheus Donelli,br BRA,GK,Corinthians,23-053,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+125,Thiago dos Santos,br BRA,MF,Fluminense,35-307,1989,0.9,2,2.25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+126,David Duarte,br BRA,DF,Bahia,30-166,1995,8.9,6,0.68,6,0,0,0,0,0,0,0,0,0,0,0,0,0,
+127,Dudu,br BRA,FW,MF,Cruzeiro,33-183,1992,2.4,4,1.67,2,1,0,0,1,0,0,0,0,0,0,0,0,0
+128,Dudu,br BRA,MF,AtlÃ©tico Mineiro,33-183,1992,0.8,2,2.37,1,0,0,0,1,0,0,0,0,0,0,0,0,0,
+129,EdenÃ­lson,br BRA,MF,FW,GrÃªmio,35-203,1989,5,11,2.22,8,1,1,1,0,0,0,0,0,0,0,0,0,0
+130,Eder,br BRA,DF,CearÃ¡,30-095,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+131,EDU,br BRA,DF,VitÃ³ria,25-023,2000,4.1,4,0.98,3,0,0,1,0,0,1,0.24,0,0,0,1,0,0,
+132,Carlos Eduardo,br BRA,MF,FW,Cruzeiro,35-265,1989,2.6,6,2.29,5,0,0,0,1,0,0,0,0,0,0,0,0,0
+133,Carlos Eduardo,br BRA,FW,DF,VitÃ³ria,28-272,1996,0.5,1,2.2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+134,Alysson Edward,br BRA,FW,MF,GrÃªmio,19-065,2006,3.8,11,2.86,5,0,2,2,2,0,2,0.52,2,0,0,0,0,0
+135,Rodrigo Ely,br BRA,DF,GrÃªmio,31-248,1993,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+136,Leandro Emmanuel MartÃ­nez,ar ARG,MF,Fortaleza,31-035,1994,6.7,22,3.26,19,3,0,0,0,0,3,0.44,3,0,0,0,0,0,
+137,ÃŠnio,br BRA,FW,MF,Juventude,24-128,2001,5.6,17,3.01,11,1,2,1,2,0,1,0.18,1,0,0,0,0,0
+138,Erick,br BRA,MF,DF,Bahia,27-237,1997,4.6,4,0.87,3,0,1,0,0,0,1,0.22,0,0,1,0,0,0
+139,Erick,br BRA,FW,MF,VitÃ³ria,27-211,1997,5.3,25,4.72,16,2,3,1,3,0,2,0.38,2,0,0,0,0,0
+140,Gonzalo Escobar,ar ARG,DF,Santos,28-115,1997,10.7,28,2.62,19,2,4,1,2,0,0,0,0,0,0,0,0,0,
+141,Lucas Esteves,br BRA,DF,GrÃªmio,25-015,2000,3.7,12,3.27,10,1,1,0,0,0,2,0.55,1,0,1,0,0,0,
+142,Lucas Evangelista,br BRA,MF,Palmeiras,30-064,1995,3.9,9,2.31,9,0,0,0,0,0,1,0.26,1,0,0,0,0,0,
+143,Ã‰verson,br BRA,GK,AtlÃ©tico Mineiro,34-352,1990,12,3,0.25,2,1,0,0,0,0,0,0,0,0,0,0,0,0,
+144,Evertton,br BRA,MF,Flamengo,22-131,2003,3.6,2,0.56,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+145,Ewerton,br BRA,DF,Juventude,24-241,2000,9.8,18,1.84,15,1,1,0,1,0,1,0.1,1,0,0,0,0,0,
+146,Fabinho,br BRA,MF,RB Bragantino,23-091,2002,2.3,6,2.58,6,0,0,0,0,0,1,0.43,1,0,0,0,0,0,
+147,FÃ¡bio,br BRA,GK,Fluminense,44-282,1980,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+148,FabrÃ­cio,br BRA,FW,MF,Mirassol,28-108,1997,3.3,10,2.99,8,0,0,1,1,0,2,0.6,2,0,0,0,0,0
+149,FabrÃ­cio,br BRA,FW,MF,VitÃ³ria,24-274,2000,2.5,11,4.46,4,0,0,3,2,2,2,0.81,2,0,0,0,0,0
+150,Fagner,br BRA,DF,Cruzeiro,36-028,1989,5.4,16,2.94,8,4,2,1,1,0,0,0,0,0,0,0,0,0,
+151,Marcos Felipe,br BRA,GK,Bahia,29-087,1996,8.8,2,0.23,1,1,0,0,0,0,0,0,0,0,0,0,0,0,
+152,Matheus Fernandes,br BRA,MF,RB Bragantino,27-009,1998,3.8,7,1.84,6,0,0,1,0,0,0,0,0,0,0,0,0,0,
+153,Nathan Fernandes,br BRA,FW,MF,Botafogo (RJ),20-143,2005,1.7,4,2.4,3,0,1,0,0,0,2,1.2,2,0,0,0,0,0
+154,Fernandinho,br BRA,FW,CearÃ¡,27-355,1997,1.3,2,1.5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+155,Fernando,br BRA,MF,DF,Internacional,37-349,1987,4.6,6,1.31,5,0,0,1,0,0,1,0.22,1,0,0,0,0,0
+156,Nahuel Ferraresi,ve VEN,DF,SÃ£o Paulo,26-232,1998,7.2,15,2.08,14,1,0,0,0,0,0,0,0,0,0,0,0,0,
+157,Ferreira,br BRA,FW,MF,SÃ£o Paulo,27-190,1997,6.1,27,4.43,18,1,3,1,4,0,4,0.66,3,0,0,1,0,0
+158,Bruno Ferreira,br BRA,GK,CearÃ¡,31-115,1994,3.7,2,0.54,1,1,0,0,0,0,0,0,0,0,0,0,0,0,
+159,Lucas Ferreira,br BRA,FW,SÃ£o Paulo,19-072,2006,8.4,33,3.94,24,1,0,1,5,2,2,0.24,1,0,0,0,1,0,
+160,Luiz Filipe,br BRA,FW,Mirassol,24-042,2001,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+161,AndrÃ© Filipinho,br BRA,DF,Juventude,28-177,1997,3.4,8,2.38,6,1,0,0,0,1,1,0.3,1,0,0,0,0,0,
+162,CaÃ­que FranÃ§a,br BRA,GK,Sport Recife,30-036,1995,11,1,0.09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+163,Ryan Francisco,br BRA,FW,MF,SÃ£o Paulo,18-230,2006,2.2,5,2.31,4,0,1,0,0,0,2,0.92,1,0,1,0,0,0
+164,Alan Franco,ec ECU,MF,AtlÃ©tico Mineiro,26-322,1998,7.5,13,1.73,12,0,0,0,0,1,0,0,0,0,0,0,0,0,
+165,Alan Franco,ar ARG,DF,SÃ£o Paulo,28-271,1996,8,6,0.75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,
+166,Lucas Freitas,br BRA,DF,Vasco da Gama,24-170,2001,7.6,4,0.52,3,0,0,1,0,0,0,0,0,0,0,0,0,0,
+167,Marlon Freitas,br BRA,MF,Botafogo (RJ),30-104,1995,10.3,32,3.1,29,2,0,1,0,0,5,0.48,5,0,0,0,0,0,
+168,Riquelme Freitas,br BRA,MF,GrÃªmio,18-330,2006,0.3,1,3.75,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+169,Juan Freytes,ar ARG,DF,Fluminense,25-179,2000,11,5,0.45,5,0,0,0,0,0,0,0,0,0,0,0,0,0,
+170,Bruno Fuchs,br BRA,DF,Palmeiras,26-099,1999,4.6,4,0.86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,
+171,Gabriel Fuentes,co COL,DF,Fluminense,28-150,1997,3,13,4.33,9,2,1,0,0,1,0,0,0,0,0,0,0,0,
+172,Gabriel,br BRA,DF,Bahia,24-064,2001,1.5,1,0.67,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+173,Gabriel,br BRA,MF,FW,Mirassol,35-184,1990,5.7,16,2.82,11,2,0,2,1,0,1,0.18,0,0,0,0,1,0
+174,Gabriel,br BRA,GK,VitÃ³ria,32-285,1992,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+175,Gabriel,br BRA,MF,RB Bragantino,32-364,1992,9.9,15,1.52,13,0,0,0,0,2,0,0,0,0,0,0,0,0,
+176,Victor Gabriel,br BRA,DF,Internacional,21-072,2004,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+177,Antonio Galeano,py PAR,FW,CearÃ¡,25-109,2000,10.1,12,1.19,9,0,0,2,1,0,1,0.1,1,0,0,0,0,0,
+178,Emerson Galego,br BRA,FW,MF,Juventude,25-333,1999,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,Mateo Gamarra,py PAR,DF,Cruzeiro,24-262,2000,1.7,1,0.58,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+180,Ganso,br BRA,MF,Fluminense,35-270,1989,3.1,6,1.96,6,0,0,0,0,0,1,0.33,1,0,0,0,0,0,
+181,MaurÃ­cio Garcez,br BRA,FW,MF,Juventude,28-115,1997,0.7,1,1.48,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+182,BenjamÃ­n GarrÃ©,ar ARG,FW,MF,Vasco da Gama,24-363,2000,2.9,10,3.42,8,1,0,1,0,0,1,0.34,1,0,0,0,0,0
+183,Rodrigo Garro,ar ARG,MF,Corinthians,27-186,1998,1.5,9,6,5,2,0,1,1,0,0,0,0,0,0,0,0,0,
+184,Gerson,br BRA,FW,MF,Flamengo,28-050,1997,7.9,23,2.91,21,1,1,0,0,0,4,0.51,4,0,0,0,0,0
+185,AgustÃ­n Giay,ar ARG,DF,Palmeiras,21-174,2004,9.8,20,2.05,17,1,0,0,1,1,0,0,0,0,0,0,0,0,
+186,Gil,br BRA,DF,Santos,38-027,1987,6,1,0.17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+187,Gilberto,br BRA,DF,Bahia,32-124,1993,8.7,19,2.19,17,0,0,0,2,0,1,0.12,1,0,0,0,0,0,
+188,Gilberto,br BRA,FW,MF,Juventude,36-034,1989,4.3,6,1.4,5,0,0,1,0,0,1,0.23,1,0,0,0,0,0
+189,Giovanny,br BRA,FW,MF,Juventude,27-293,1997,3.7,7,1.87,5,0,0,1,1,0,1,0.27,0,0,0,1,0,0
+190,Daniel Giraldo,co COL,MF,Juventude,33-008,1992,5.5,5,0.91,4,0,0,0,0,1,1,0.18,1,0,0,0,0,0,
+191,Leonardo Godoy,ar ARG,DF,Santos,30-072,1995,4.6,4,0.86,2,0,0,0,1,1,0,0,0,0,0,0,0,0,
+192,Davi Goes,br BRA,MF,Juventude,20-017,2005,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+193,Fredi Gomes,br BRA,DF,Bahia,19-047,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+194,Igor Gomes,br BRA,MF,FW,AtlÃ©tico Mineiro,26-114,1999,3.9,13,3.31,10,1,0,2,0,0,2,0.51,1,0,0,1,0,0
+195,Gustavo GÃ³mez,py PAR,DF,Palmeiras,32-064,1993,7.9,7,0.89,6,0,0,0,0,1,0,0,0,0,0,0,0,0,
+196,Nuno GonÃ§alo Moreira,pt POR,FW,Vasco da Gama,26-023,1999,9.5,32,3.37,26,2,2,0,1,1,4,0.42,4,0,0,0,0,0,
+197,Matheus GonÃ§alves,br BRA,FW,Flamengo,19-325,2005,0.4,3,7.5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,
+198,Gregore,br BRA,MF,Botafogo (RJ),31-129,1994,9.6,21,2.19,18,1,0,0,0,2,1,0.1,1,0,0,0,0,0,
+199,Guga,br BRA,DF,Fluminense,26-314,1998,2.7,9,3.28,6,1,0,1,1,0,1,0.36,0,1,0,0,0,0,
+200,Guilherme,br BRA,FW,Santos,30-087,1995,8.5,23,2.7,12,3,4,3,1,0,0,0,0,0,0,0,0,0,
+201,Guilherme,br BRA,DF,RB Bragantino,23-145,2002,2,2,0.99,1,1,0,0,0,0,0,0,0,0,0,0,0,0,
+202,Gustavinho,br BRA,MF,RB Bragantino,21-077,2004,0.8,5,6.16,3,2,0,0,0,0,1,1.23,1,0,0,0,0,0,
+203,Gustavo,br BRA,GK,Juventude,32-121,1993,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+204,Luiz Gustavo,br BRA,MF,SÃ£o Paulo,37-351,1987,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+205,Luiz Gustavo,br BRA,DF,Vasco da Gama,19-088,2006,3.2,1,0.31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+206,Ryan Gustavo,br BRA,MF,Corinthians,21-359,2003,2.3,3,1.32,1,0,0,0,1,1,0,0,0,0,0,0,0,0,
+207,Lucas Halter,br BRA,DF,VitÃ³ria,25-068,2000,11,9,0.82,7,1,0,1,0,0,0,0,0,0,0,0,0,0,
+208,HÃ©ctor,es ESP,FW,MF,Corinthians,29-298,1995,2.7,3,1.1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,Henrique,br BRA,FW,SÃ£o Paulo,18-242,2006,0,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
+210,Bruno Henrique,br BRA,FW,MF,Flamengo,34-191,1990,6.5,15,2.31,9,0,2,4,0,0,1,0.15,0,0,0,1,0,0
+211,Bruno Henrique,br BRA,MF,Internacional,35-261,1989,6.4,8,1.25,6,0,0,1,1,0,0,0,0,0,0,0,0,0,
+212,Dalbert Henrique,br BRA,DF,FW,Sport Recife,31-304,1993,1.2,3,2.45,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,Gustavo Henrique,br BRA,DF,Corinthians,32-107,1993,3,3,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,
+214,Matheus Henrique,br BRA,MF,Cruzeiro,27-202,1997,2,4,2,3,0,1,0,0,0,0,0,0,0,0,0,0,0,
+215,Paulo Henrique,br BRA,DF,Vasco da Gama,28-349,1996,9.7,26,2.67,18,1,3,4,0,0,4,0.41,3,0,1,0,0,0,
+216,Pedro Henrique,br BRA,FW,CearÃ¡,35-023,1990,5,10,2,5,1,0,1,3,0,1,0.2,0,0,0,1,0,0,
+217,Pedro Henrique,br BRA,DF,RB Bragantino,29-280,1995,11,12,1.09,11,0,0,0,1,0,3,0.27,3,0,0,0,0,0,
+218,HÃ©rcules,br BRA,MF,Fluminense,24-262,2000,5.8,9,1.56,6,0,1,2,0,0,1,0.17,0,0,0,1,0,0,
+219,Diogo Hereda,br BRA,DF,Sport Recife,26-292,1998,9.4,21,2.23,17,0,2,2,0,0,1,0.11,1,0,0,0,0,0,
+220,Lucca Holanda,br BRA,FW,MF,Internacional,22-098,2003,1.8,4,2.24,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+221,Hugo,br BRA,DF,Corinthians,27-314,1997,1.7,3,1.75,3,0,0,0,0,0,0,0,0,0,0,0,0,0,
+222,Vitor Hugo,br BRA,DF,AtlÃ©tico Mineiro,34-050,1991,2.1,2,0.95,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+223,Hulk,br BRA,FW,MF,AtlÃ©tico Mineiro,38-349,1986,10.1,45,4.45,21,4,6,5,8,1,3,0.3,1,1,0,1,0,0
+224,JosÃ© Hurtado,ec ECU,DF,RB Bragantino,23-198,2001,9.5,14,1.48,7,1,2,4,0,0,0,0,0,0,0,0,0,0,
+225,Hyan,br BRA,MF,Santos,21-107,2004,0.1,1,6.92,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+226,Iago,br BRA,DF,MF,Bahia,28-108,1997,2.3,3,1.3,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,IgnÃ¡cio,br BRA,DF,Fluminense,28-220,1996,4.1,2,0.49,1,0,0,1,0,0,0,0,0,0,0,0,0,0,
+228,Juan Ignacio Dinenno,ar ARG,FW,Cruzeiro,30-315,1994,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+229,Juan Ignacio Dinenno,ar ARG,FW,SÃ£o Paulo,30-315,1994,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+230,Isaque,br BRA,MF,Fluminense,18-076,2007,0.2,1,4.29,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+231,ZÃ© Ivaldo,br BRA,DF,Santos,28-138,1997,10.5,6,0.57,3,1,0,1,0,1,3,0.29,1,1,0,1,0,0,
+232,Jadson,br BRA,MF,Juventude,31-313,1993,9.9,20,2.02,15,0,1,1,1,2,3,0.3,3,0,0,0,0,0,
+233,Jair,br BRA,MF,Vasco da Gama,30-317,1994,3.9,10,2.57,8,0,1,1,0,0,1,0.26,1,0,0,0,0,0,
+234,Jamerson,br BRA,DF,VitÃ³ria,26-303,1998,11.4,29,2.54,17,8,2,1,1,0,4,0.35,2,1,0,0,1,0,
+235,Janderson,br BRA,FW,MF,VitÃ³ria,26-064,1999,8.1,13,1.6,8,0,2,1,2,0,0,0,0,0,0,0,0,0
+236,LÃ©o Jardim,br BRA,GK,Vasco da Gama,30-111,1995,12,1,0.08,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+237,Jeffinho,br BRA,MF,Botafogo (RJ),25-191,1999,0.6,6,9.64,4,0,1,1,0,0,2,3.21,2,0,0,0,0,0,
+238,Jemerson,br BRA,DF,GrÃªmio,32-319,1992,8.6,3,0.35,2,0,0,1,0,0,0,0,0,0,0,0,0,0,
+239,Jemmes,br BRA,DF,Mirassol,25-091,2000,11,5,0.45,2,1,1,1,0,0,0,0,0,0,0,0,0,0,
+240,CaÃ­que de Jesus GonÃ§alves,br BRA,MF,Juventude,29-272,1995,3.5,5,1.42,4,0,0,0,1,0,0,0,0,0,0,0,0,0,
+241,Igor Jesus,br BRA,FW,Botafogo (RJ),24-134,2001,9.7,23,2.37,15,0,1,6,1,0,1,0.1,0,0,0,1,0,0,
+242,Maykon Jesus,br BRA,DF,VitÃ³ria,19-214,2005,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+243,John,br BRA,GK,Botafogo (RJ),29-146,1996,11,1,0.09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+244,Jonathan,br BRA,DF,Cruzeiro,21-043,2004,3.2,3,0.95,2,0,0,0,0,1,0,0,0,0,0,0,0,0,
+245,Kaio Jorge,br BRA,FW,Cruzeiro,23-166,2002,9.2,22,2.39,12,0,2,4,4,0,3,0.33,1,0,1,1,0,0,
+246,JosÃ©,br BRA,DF,Cruzeiro,19-312,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+247,Willian JosÃ©,br BRA,FW,Bahia,33-228,1991,5.5,19,3.48,14,0,2,3,0,0,1,0.18,1,0,0,0,0,0,
+248,Jhonatan Jowjow,br BRA,MF,RB Bragantino,22-303,2002,10.5,63,6.03,42,13,4,1,3,0,3,0.29,1,1,0,0,1,0,
+249,Luciano Juba,br BRA,DF,Bahia,25-314,1999,10.9,33,3.02,22,8,2,1,0,0,6,0.55,5,0,1,0,0,0,
+250,Juninho,br BRA,FW,Flamengo,28-230,1996,2.4,2,0.85,0,0,0,1,1,0,0,0,0,0,0,0,0,0,
+251,Juninho,br BRA,DF,Internacional,29-195,1995,5,4,0.8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,
+252,Kaiki,br BRA,DF,Cruzeiro,22-123,2003,11.9,21,1.76,14,2,1,3,0,1,3,0.25,1,0,0,2,0,0,
+253,Walter Kannemann,ar ARG,DF,GrÃªmio,34-117,1991,3.7,5,1.36,2,0,0,2,1,0,1,0.27,0,0,0,0,1,0,
+254,Kanu,br BRA,DF,Bahia,28-124,1997,1.1,4,3.53,4,0,0,0,0,0,0,0,0,0,0,0,0,0,
+255,Kayke,br BRA,FW,Corinthians,21-072,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+256,Renato Kayser,br BRA,FW,VitÃ³ria,29-142,1996,4.3,5,1.15,3,0,0,2,0,0,0,0,0,0,0,0,0,0,
+257,Kenji,br BRA,FW,Cruzeiro,19-160,2006,0.1,1,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+258,Keno,br BRA,FW,Fluminense,35-302,1989,1.1,6,5.63,6,0,0,0,0,0,1,0.94,1,0,0,0,0,0,
+259,Kevyson,br BRA,DF,Santos,21-102,2004,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+260,BenjamÃ­n Kuscevic,cl CHI,DF,Fortaleza,29-068,1996,10.9,5,0.46,4,1,0,0,0,0,0,0,0,0,0,0,0,0,
+261,Ignacio Laquintana,uy URU,FW,RB Bragantino,26-158,1999,2.5,2,0.8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+262,JoaquÃ­n Lavega,uy URU,DF,Fluminense,20-156,2005,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+263,LelÃª,br BRA,FW,CearÃ¡,27-281,1997,1.2,7,5.73,0,0,2,2,3,0,0,0,0,0,0,0,0,0,
+264,Mauricio Lemos,uy URU,DF,Vasco da Gama,29-193,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+265,RubÃ©n Lezcano,py PAR,MF,Fluminense,21-150,2004,0.5,2,4.19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,
+266,Lima,br BRA,MF,Fluminense,29-028,1996,4.4,13,2.95,9,0,1,1,2,0,1,0.23,0,0,1,0,0,0,
+267,Lucas Lima,br BRA,MF,CearÃ¡,25-005,2000,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+268,Lucas Lima,br BRA,MF,FW,Sport Recife,35-000,1990,8.7,52,6.01,34,12,2,3,1,0,3,0.35,2,1,0,0,0,0
+269,Kauan Lindes,br BRA,MF,Botafogo (RJ),21-223,2003,0.3,2,6,2,0,0,0,0,0,1,3,1,0,0,0,0,0,
+270,Lenny Lobato,br BRA,FW,Sport Recife,24-156,2001,2.7,7,2.58,2,0,2,1,1,1,0,0,0,0,0,0,0,0,
+271,David Loiola,br BRA,DF,Botafogo (RJ),22-200,2002,5.5,4,0.72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,
+272,JosÃ© LÃ³pez,ar ARG,FW,Palmeiras,24-215,2000,5.8,9,1.56,5,0,0,0,4,0,1,0.17,0,0,0,0,1,0,
+273,LourenÃ§o,br BRA,MF,CearÃ¡,27-305,1997,3,7,2.3,5,2,0,0,0,0,1,0.33,1,0,0,0,0,0,
+274,LucÃ£o,br BRA,GK,RB Bragantino,24-133,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+275,Ayrton Lucas,br BRA,DF,Flamengo,28-020,1997,2.4,3,1.27,1,0,1,1,0,0,0,0,0,0,0,0,0,0,
+276,Jean Lucas,br BRA,MF,Bahia,27-017,1998,7.8,13,1.68,10,0,1,2,0,0,1,0.13,1,0,0,0,0,0,
+277,JoÃ£o Lucas,br BRA,DF,GrÃªmio,27-122,1998,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+278,ZÃ© Lucas,br BRA,MF,Sport Recife,17-108,2008,4.8,9,1.88,7,0,1,0,1,0,0,0,0,0,0,0,0,0,
+279,Luciano,br BRA,MF,SÃ£o Paulo,32-052,1993,7.5,25,3.34,19,0,0,3,2,1,1,0.13,0,0,0,0,1,0,
+280,Luighi,br BRA,FW,DF,Palmeiras,19-070,2006,0.6,5,8.04,3,0,1,1,0,0,1,1.61,0,0,0,1,0,0
+281,Victor Luis,br BRA,DF,Vasco da Gama,32-016,1993,1,4,4,3,0,0,1,0,0,0,0,0,0,0,0,0,0,
+282,LuisÃ£o,br BRA,DF,Santos,21-303,2003,1.9,2,1.07,0,1,0,1,0,0,0,0,0,0,0,0,0,0,
+283,David Luiz,br BRA,DF,Fortaleza,38-078,1987,4.4,4,0.9,3,1,0,0,0,0,0,0,0,0,0,0,0,0,
+284,Guilherme Luiz,br BRA,FW,CearÃ¡,20-075,2005,1.3,4,3.1,3,0,0,0,1,0,1,0.78,1,0,0,0,0,0,
+285,Lyanco,br BRA,DF,AtlÃ©tico Mineiro,28-158,1997,8,11,1.38,10,0,0,1,0,0,1,0.13,1,0,0,0,0,0,
+286,Everton MaceiÃ³,br BRA,FW,MF,Mirassol,21-360,2003,1.5,8,5.45,6,0,1,0,1,0,0,0,0,0,0,0,0,0
+287,Willian Machado,br BRA,DF,CearÃ¡,28-238,1996,10.8,6,0.56,4,1,1,0,0,0,0,0,0,0,0,0,0,0,
+288,Talles Magno,br BRA,FW,MF,Corinthians,23-013,2002,4.3,15,3.49,7,0,1,4,3,0,2,0.47,1,0,1,0,0,0
+289,Gustavo Maia,br BRA,FW,Sport Recife,24-168,2001,0.2,1,5.29,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+290,Pablo Maia,br BRA,MF,SÃ£o Paulo,23-180,2002,2.8,5,1.81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,
+291,Thiago Maia,br BRA,MF,Internacional,28-108,1997,5.3,19,3.58,14,0,2,0,1,2,2,0.38,1,0,1,0,0,0,
+292,LÃ©o Mana,br BRA,DF,Corinthians,21-094,2004,1.5,2,1.33,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+293,Gustavo Mancha,br BRA,DF,Fortaleza,20-349,2004,8.9,11,1.24,8,0,0,1,1,1,1,0.11,0,0,0,1,0,0,
+294,Eros Mancuso,ar ARG,DF,FW,Fortaleza,26-083,1999,6.6,12,1.81,9,1,2,0,0,0,1,0.15,1,0,0,0,0,0
+295,Luis Mandaca,br BRA,MF,FW,Juventude,23-280,2001,7.8,19,2.44,16,0,0,0,1,2,1,0.13,1,0,0,0,0,0
+296,Elias Manoel,br BRA,MF,FW,Botafogo (RJ),23-221,2001,0.3,2,6.67,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,Fernando MarÃ§al,br BRA,DF,Botafogo (RJ),36-140,1989,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+298,MarcÃ£o,br BRA,GK,Juventude,33-125,1992,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+299,JoÃ£o Marcelo,br BRA,FW,AtlÃ©tico Mineiro,20-085,2005,0.6,1,1.58,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+300,ZÃ© Marcos,br BRA,DF,VitÃ³ria,27-158,1998,8.5,7,0.82,6,0,0,0,0,1,0,0,0,0,0,0,0,0,
+301,Marinho,br BRA,FW,Fortaleza,35-041,1990,4.4,15,3.44,7,1,1,4,2,0,2,0.46,1,0,0,1,0,0,
+302,Marlon,br BRA,DF,Cruzeiro,28-050,1997,0.1,1,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+303,Marlon,br BRA,DF,GrÃªmio,28-050,1997,8,13,1.62,8,3,1,1,0,0,0,0,0,0,0,0,0,0,
+304,Lucca Marques,br BRA,FW,MF,SÃ£o Paulo,18-025,2007,1.3,2,1.61,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+305,Marquinhos,br BRA,FW,Cruzeiro,22-093,2003,1.4,7,4.96,4,2,0,0,1,0,0,0,0,0,0,0,0,0,
+306,Juan MartÃ­n Lucero,ar ARG,FW,Fortaleza,33-221,1991,7.7,14,1.81,11,0,0,2,1,0,1,0.13,1,0,0,0,0,0,
+307,Martinelli,br BRA,MF,Fluminense,24-060,2001,10.5,22,2.09,19,0,0,2,0,1,2,0.19,1,0,0,0,0,1,
+308,Alejandro MartÃ­nez,ar ARG,FW,CearÃ¡,28-084,1997,0.5,1,1.84,1,0,0,0,0,0,1,1.84,1,0,0,0,0,0,
+309,Emiliano MartÃ­nez,uy URU,MF,Palmeiras,25-326,1999,6.7,10,1.49,9,0,0,0,1,0,1,0.15,1,0,0,0,0,0,
+310,Adriano Martins,br BRA,DF,Juventude,28-099,1997,4,4,1,2,1,0,1,0,0,1,0.25,0,1,0,0,0,0,
+311,Andre Martins,br BRA,FW,GrÃªmio,23-204,2001,1,2,1.96,1,0,0,1,0,0,0,0,0,0,0,0,0,0,
+312,Matheus Martins,br BRA,FW,MF,Botafogo (RJ),21-358,2003,3.1,15,4.82,11,0,1,0,3,0,2,0.64,2,0,0,0,0,0
+313,Gustavo Martins Santos,br BRA,DF,GrÃªmio,22-332,2002,2.2,4,1.83,1,1,1,1,0,0,1,0.46,0,0,0,1,0,0,
+314,Gonzalo Mastriani,uy URU,FW,Botafogo (RJ),32-072,1993,2.8,7,2.47,5,0,0,0,1,1,0,0,0,0,0,0,0,0,
+315,Matheusinho,br BRA,MF,VitÃ³ria,27-264,1997,8.2,21,2.57,15,1,1,1,2,1,1,0.12,0,0,0,1,0,0,
+316,Matheuzinho,br BRA,DF,Corinthians,24-304,2000,8.9,9,1.01,8,0,0,1,0,0,0,0,0,0,0,0,0,0,
+317,Ricardo Mathias,br BRA,FW,Internacional,18-349,2006,1.8,4,2.24,2,0,1,0,1,0,1,0.56,0,0,1,0,0,0,
+318,Guillermo MatÃ­as FernÃ¡ndez,ar ARG,MF,Fortaleza,33-271,1991,3.2,8,2.52,7,1,0,0,0,0,2,0.63,1,1,0,0,0,0,
+319,Mauricio,br BRA,MF,FW,Palmeiras,24-048,2001,2.9,13,4.4,12,0,0,1,0,0,0,0,0,0,0,0,0,0
+320,Maycon,br BRA,MF,Corinthians,27-359,1997,5.8,11,1.9,10,1,0,0,0,0,0,0,0,0,0,0,0,0,
+321,Mayke,br BRA,DF,Palmeiras,32-241,1992,1.3,1,0.74,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+322,Luca Meirelles,br BRA,MF,FW,Santos,18-116,2007,0.2,1,4.09,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,Memphis,nl NED,FW,Corinthians,31-146,1994,7,39,5.57,24,7,3,4,1,0,5,0.71,4,1,0,0,0,0,
+324,Nathan Mendes,br BRA,DF,RB Bragantino,22-324,2002,1.1,2,1.82,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+325,Vinicius MendonÃ§a,br BRA,FW,RB Bragantino,21-139,2004,7.3,19,2.61,10,0,4,0,5,0,2,0.27,2,0,0,0,0,0,
+326,Jean Meneses,cl CHI,FW,Vasco da Gama,32-115,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+327,Gabriel Menino,br BRA,MF,AtlÃ©tico Mineiro,24-283,2000,3.9,13,3.34,11,2,0,0,0,0,2,0.51,1,1,0,0,0,0,
+328,Micael,br BRA,DF,Palmeiras,24-331,2000,6,5,0.83,4,0,0,0,1,0,1,0.17,0,0,0,0,1,0,
+329,Michael,br BRA,FW,Flamengo,29-119,1996,4.9,24,4.89,19,1,2,2,0,0,5,1.02,4,0,0,1,0,0,
+330,Fernando Miguel,br BRA,GK,CearÃ¡,40-157,1985,7.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+331,Moises,br BRA,FW,MF,Fortaleza,28-310,1996,1.6,6,3.86,5,0,0,1,0,0,1,0.64,1,0,0,0,0,0
+332,Miguel Monsalve,co COL,FW,MF,GrÃªmio,21-132,2004,3.1,12,3.83,8,2,0,0,2,0,1,0.32,1,0,0,0,0,0
+333,AnÃ­bal Moreno,ar ARG,MF,Palmeiras,26-057,1999,3.9,5,1.28,4,1,0,0,0,0,0,0,0,0,0,0,0,0,
+334,Henry Mosquera,co COL,FW,RB Bragantino,23-236,2001,3.6,14,3.89,11,0,2,0,1,0,0,0,0,0,0,0,0,0,
+335,Gustavo Mosquito,br BRA,FW,MF,VitÃ³ria,27-305,1997,5.3,11,2.06,10,1,0,0,0,0,3,0.56,3,0,0,0,0,0
+336,Hugo Moura,br BRA,MF,Vasco da Gama,27-187,1998,9.5,14,1.47,12,0,0,1,1,0,3,0.31,2,0,0,0,1,0,
+337,Lucas Moura,br BRA,FW,SÃ£o Paulo,32-330,1992,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+338,Neto Moura,br BRA,MF,Mirassol,28-337,1996,7.2,7,0.98,5,1,0,1,0,0,0,0,0,0,0,0,0,0,
+339,Lucas Mugni,ar ARG,MF,CearÃ¡,33-178,1992,7.9,29,3.68,18,8,1,0,1,1,4,0.51,2,2,0,0,0,0,
+340,Alex Muralha,br BRA,GK,Mirassol,35-241,1989,6,1,0.17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+341,Nata,br BRA,MF,Juventude,24-034,2001,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+342,Natanael,br BRA,DF,AtlÃ©tico Mineiro,23-185,2002,9.9,15,1.51,12,0,1,1,1,0,0,0,0,0,0,0,0,0,
+343,Nathan,br BRA,DF,Internacional,23-307,2001,1,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,
+344,Nathan,br BRA,MF,FW,GrÃªmio,29-118,1996,1,4,4,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+345,Kaiky Naves,br BRA,DF,Palmeiras,23-062,2002,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+346,Negueba,br BRA,FW,Mirassol,25-218,1999,4.1,13,3.15,10,0,1,1,1,0,0,0,0,0,0,0,0,0,
+347,NenÃª,br BRA,MF,FW,Juventude,43-355,1981,2.2,8,3.67,3,2,0,2,1,0,0,0,0,0,0,0,0,0
+348,Neris,br BRA,DF,VitÃ³ria,33-022,1992,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+349,Rodrigo Nestor,br BRA,MF,Bahia,24-334,2000,2.6,6,2.31,5,0,1,0,0,0,0,0,0,0,0,0,0,0,
+350,JosÃ© Vitor Silva Neves,br BRA,FW,Mirassol,25-068,2000,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+351,Newton,br BRA,MF,Botafogo (RJ),25-119,2000,1.3,2,1.59,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+352,Neymar,br BRA,MF,FW,Santos,33-154,1992,2,11,5.5,5,1,3,0,2,0,0,0,0,0,0,0,0,0
+353,Nicolas,br BRA,DF,CearÃ¡,28-135,1997,2.1,9,4.2,6,2,1,0,0,0,1,0.47,1,0,0,0,0,0,
+354,Nonato,br BRA,MF,Fluminense,27-128,1998,3.9,7,1.81,5,1,0,0,1,0,0,0,0,0,0,0,0,0,
+355,SÃ©rgio Oliveira,pt POR,MF,Sport Recife,33-037,1992,6,16,2.68,10,1,1,2,2,0,2,0.34,2,0,0,0,0,0,
+356,Cauly Oliveira Souza,br BRA,MF,FW,Bahia,29-297,1995,5.2,13,2.52,10,2,0,0,1,0,3,0.58,3,0,0,0,0,0
+357,Cristian Olivera,uy URU,FW,GrÃªmio,23-083,2002,6.9,14,2.04,7,0,3,1,3,0,0,0,0,0,0,0,0,0,
+358,Christian Ortiz,ar ARG,MF,Sport Recife,32-323,1992,2,5,2.51,5,0,0,0,0,0,0,0,0,0,0,0,0,0,
+359,Leo Ortiz,br BRA,DF,Flamengo,29-187,1996,10,11,1.1,11,0,0,0,0,0,1,0.1,1,0,0,0,0,0,
+360,Oscar,br BRA,FW,MF,SÃ£o Paulo,33-303,1991,1.9,8,4.24,4,4,0,0,0,0,0,0,0,0,0,0,0,0
+361,Osvaldo,br BRA,FW,MF,VitÃ³ria,38-089,1987,3,19,6.38,9,7,2,1,0,0,1,0.34,0,1,0,0,0,0
+362,Luis OtÃ¡vio,br BRA,MF,FW,Internacional,18-088,2007,0.9,3,3.46,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,JoÃ£o Othavio Basso,br BRA,DF,Santos,28-177,1997,2.8,2,0.73,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+364,Pablo,br BRA,FW,Sport Recife,33-016,1992,5.9,11,1.86,8,0,0,2,1,0,0,0,0,0,0,0,0,0,
+365,Ruan Pablo,br BRA,FW,Bahia,16-351,2008,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+366,Bruno Pacheco,br BRA,DF,Fortaleza,33-213,1991,3,5,1.67,3,1,0,0,0,1,0,0,0,0,0,0,0,0,
+367,GonÃ§alo PaciÃªncia,pt POR,FW,Sport Recife,30-342,1994,0.9,2,2.34,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+368,Brahian Palacios,co COL,MF,AtlÃ©tico Mineiro,22-227,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+369,Sergio Palacios,co COL,DF,RB Bragantino,20-145,2005,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+370,Alan Patrick,br BRA,MF,FW,Internacional,34-057,1991,7.1,49,6.86,24,18,5,1,1,0,6,0.84,2,3,1,0,0,0
+371,Jair Paula,br BRA,DF,Botafogo (RJ),20-124,2005,11,7,0.64,6,1,0,0,0,0,1,0.09,1,0,0,0,0,0,
+372,Patrick de Paula,br BRA,MF,Botafogo (RJ),25-304,1999,3.2,5,1.59,5,0,0,0,0,0,0,0,0,0,0,0,0,0,
+373,Paulinho,br BRA,MF,FW,Vasco da Gama,28-182,1997,2.3,4,1.72,2,0,1,0,1,0,0,0,0,0,0,0,0,0
+374,Paulinho,br BRA,MF,FW,Palmeiras,24-359,2000,2.5,12,4.82,9,1,2,0,0,0,0,0,0,0,0,0,0,0
+375,Caio Paulista,br BRA,DF,AtlÃ©tico Mineiro,27-059,1998,2.3,10,4.27,6,0,2,1,0,1,0,0,0,0,0,0,0,0,
+376,Marcos Paulo,br BRA,DF,Juventude,22-172,2003,5.5,5,0.92,4,0,0,1,0,0,1,0.18,1,0,0,0,0,0,
+377,Cristian PavÃ³n,ar ARG,FW,MF,GrÃªmio,29-169,1996,3.7,13,3.47,8,1,2,2,0,0,0,0,0,0,0,0,0,0
+378,Dimitri Payet,fr FRA,MF,Vasco da Gama,38-102,1987,2.1,11,5.18,6,4,0,0,1,0,2,0.94,1,1,0,0,0,0,
+379,Pedro,br BRA,FW,Flamengo,28-019,1997,3.4,12,3.5,7,0,1,2,1,1,4,1.17,2,0,0,1,0,1,
+380,JoÃ£o Pedro Chermont,br BRA,DF,Santos,19-172,2006,2.8,7,2.53,7,0,0,0,0,0,0,0,0,0,0,0,0,0,
+381,JoÃ£o Pedro,br BRA,DF,Corinthians,21-190,2003,1.5,2,1.33,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+382,JoÃ£o Pedro,br BRA,DF,GrÃªmio,28-236,1996,4.2,4,0.94,4,0,0,0,0,0,0,0,0,0,0,0,0,0,
+383,JoÃ£o Pedro PepÃª,br BRA,MF,VitÃ³ria,27-184,1998,2,3,1.52,3,0,0,0,0,0,0,0,0,0,0,0,0,0,
+384,Peixoto,br BRA,MF,FW,Juventude,28-009,1997,0.4,1,2.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,LÃ©o Pereira,br BRA,DF,Flamengo,29-159,1996,10,5,0.5,5,0,0,0,0,0,1,0.1,1,0,0,0,0,0,
+386,Matheus Pereira,br BRA,MF,Cruzeiro,29-065,1996,8.7,52,6,30,14,2,1,4,1,2,0.23,1,0,1,0,0,0,
+387,Luan Peres Petroni,br BRA,DF,Santos,30-355,1994,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+388,Pernambuco,br BRA,FW,MF,Juventude,27-072,1998,0.6,3,4.74,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,Petterson,br BRA,MF,Juventude,21-186,2004,0.9,1,1.13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+390,Yago Pikachu,br BRA,FW,DF,Fortaleza,33-034,1992,8.5,31,3.65,21,4,0,2,3,1,4,0.47,2,0,0,1,1,0
+391,JoaquÃ­n Piquerez,uy URU,DF,Palmeiras,26-319,1998,10.5,33,3.14,27,1,2,2,0,1,1,0.1,0,0,1,0,0,0,
+392,Rafael Pires,br BRA,GK,SÃ£o Paulo,36-016,1989,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+393,Lucas Piton,br BRA,DF,Vasco da Gama,24-273,2000,11,31,2.82,25,6,0,0,0,0,4,0.36,3,1,0,0,0,0,
+394,Isidro Pitta,py PAR,FW,RB Bragantino,25-329,1999,2.8,9,3.23,8,0,1,0,0,0,2,0.72,1,0,1,0,0,0,
+395,Diego Pituca,br BRA,MF,Santos,32-328,1992,3.6,11,3.09,9,0,0,0,2,0,1,0.28,1,0,0,0,0,0,
+396,Gonzalo Plata,ec ECU,FW,MF,Flamengo,24-250,2000,2.4,12,5.05,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,Tomas Pochettino,ar ARG,MF,Fortaleza,29-158,1996,4.3,28,6.45,13,9,2,3,1,0,1,0.23,0,1,0,0,0,0,
+398,Mateo Ponte,uy URU,DF,Botafogo (RJ),22-046,2003,1.4,5,3.46,5,0,0,0,0,0,0,0,0,0,0,0,0,0,
+399,Gustavo Prado,br BRA,FW,MF,Internacional,20-033,2005,2.7,15,5.49,8,1,1,2,3,0,0,0,0,0,0,0,0,0
+400,Lucca Prior,br BRA,FW,Fortaleza,21-147,2004,1.2,6,5.19,4,1,0,0,1,0,0,0,0,0,0,0,0,0,
+401,Erick Pulga,br BRA,FW,MF,Bahia,24-280,2000,9.5,26,2.72,12,0,8,1,3,2,4,0.42,3,0,1,0,0,0
+402,Erick Pulgar,cl CHI,MF,Flamengo,31-175,1994,7.2,11,1.52,9,2,0,0,0,0,2,0.28,2,0,0,0,0,0,
+403,Du Queiroz,br BRA,MF,Sport Recife,25-171,2000,6.8,14,2.05,14,0,0,0,0,0,0,0,0,0,0,0,0,0,
+404,Igor Rabello,br BRA,DF,FW,AtlÃ©tico Mineiro,30-072,1995,1.1,1,0.91,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,ZÃ© Rafael,br BRA,MF,Santos,32-023,1993,3.6,4,1.1,2,0,1,0,0,1,0,0,0,0,0,0,0,0,
+406,AndrÃ© Ramalho,br BRA,DF,Corinthians,33-143,1992,8,7,0.87,6,0,0,1,0,0,0,0,0,0,0,0,0,0,
+407,Eric Ramires,br BRA,MF,RB Bragantino,24-333,2000,8.2,22,2.68,17,0,4,1,0,0,2,0.24,2,0,0,0,0,0,
+408,Ramon,br BRA,DF,Internacional,24-118,2001,3.7,7,1.91,6,0,0,1,0,0,0,0,0,0,0,0,0,0,
+409,Lucas Ramon,br BRA,DF,Mirassol,31-124,1994,9.2,21,2.29,13,2,2,1,2,1,3,0.33,1,0,0,1,1,0,
+410,Santi Ramos Mingo,ar ARG,DF,Bahia,23-230,2001,12,7,0.58,6,0,0,1,0,0,0,0,0,0,0,0,0,0,
+411,Rafael Ramos,pt POR,DF,CearÃ¡,30-181,1995,2.9,3,1.03,2,1,0,0,0,0,0,0,0,0,0,0,0,0,
+412,Raniele,br BRA,MF,Corinthians,28-190,1996,7,7,1.01,5,0,2,0,0,0,1,0.14,1,0,0,0,0,0,
+413,Wellington Rato,br BRA,FW,MF,VitÃ³ria,33-011,1992,2.4,4,1.7,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,Pedro Raul,br BRA,FW,CearÃ¡,28-246,1996,10.1,20,1.98,18,0,0,1,1,0,1,0.1,1,0,0,0,0,0,
+415,Raykkonen,br BRA,FW,Internacional,16-361,2008,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+416,Reginaldo,br BRA,DF,Juventude,32-137,1993,1.2,2,1.62,1,1,0,0,0,0,0,0,0,0,0,0,0,0,
+417,Reinaldo,br BRA,DF,Mirassol,35-284,1989,10.1,27,2.67,16,9,2,0,0,0,3,0.3,2,1,0,0,0,0,
+418,Cristian Renato,br BRA,FW,Mirassol,25-141,2000,5.5,10,1.82,6,0,2,1,1,0,3,0.55,2,0,1,0,0,0,
+419,RenÃª,br BRA,DF,Fluminense,32-298,1992,7.9,21,2.65,17,3,0,0,1,0,1,0.13,0,1,0,0,0,0,
+420,Rezende,br BRA,MF,Bahia,30-188,1995,1,3,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,
+421,Murilo Rhikman,br BRA,MF,Cruzeiro,19-118,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+422,Everton Ribeiro,br BRA,MF,Bahia,36-090,1989,6.7,24,3.56,20,2,0,1,1,0,2,0.3,2,0,0,0,0,0,
+423,Ricardo,br BRA,MF,VitÃ³ria,31-132,1994,6.2,9,1.45,8,0,1,0,0,0,0,0,0,0,0,0,0,0,
+424,JoÃ£o Ricardo Riedi,br BRA,GK,Fortaleza,36-306,1988,12,4,0.33,3,1,0,0,0,0,0,0,0,0,0,0,0,0,
+425,Charles Rigon Matos,br BRA,DF,MF,Corinthians,29-020,1996,0.8,1,1.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,TomÃ¡s RincÃ³n,ve VEN,MF,Santos,37-177,1988,4.7,9,1.91,6,0,1,0,1,1,0,0,0,0,0,0,0,0,
+427,Richard RÃ­os,co COL,MF,Palmeiras,25-037,2000,7.1,20,2.8,11,4,1,1,3,0,4,0.56,2,1,1,0,0,0,
+428,Riquelme,br BRA,FW,MF,Fluminense,18-118,2007,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,Christian Rivera,co COL,MF,Sport Recife,29-176,1996,7.3,5,0.68,5,0,0,0,0,0,0,0,0,0,0,0,0,0,
+430,Sergio Rochet,uy URU,GK,Internacional,32-108,1993,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+431,Rodrigo,br BRA,FW,MF,SÃ£o Paulo,21-115,2004,0.8,2,2.57,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+432,GuzmÃ¡n RodrÃ­guez,uy URU,DF,RB Bragantino,25-151,2000,11,3,0.27,3,0,0,0,0,0,1,0.09,1,0,0,0,0,0,
+433,Luciano RodrÃ­guez,uy URU,FW,Bahia,21-358,2003,5.4,6,1.11,4,0,0,1,1,0,0,0,0,0,0,0,0,0,
+434,Santiago RodrÃ­guez,uy URU,MF,FW,Botafogo (RJ),25-182,2000,1.8,8,4.5,5,1,0,2,0,0,1,0.56,0,0,0,1,0,0
+435,Rodriguinho,br BRA,FW,Cruzeiro,22-034,2003,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+436,AgustÃ­n Rogel,uy URU,DF,Internacional,27-265,1997,5,5,1,3,0,0,2,0,0,1,0.2,0,0,0,1,0,0,
+437,BenjamÃ­n Rollheiser,ar ARG,MF,FW,Santos,25-107,2000,9.9,49,4.93,32,9,2,4,2,0,1,0.1,1,0,0,0,0,0
+438,IvÃ¡n RomÃ¡n,cl CHI,DF,AtlÃ©tico Mineiro,18-362,2006,1,4,3.91,2,0,0,2,0,0,1,0.98,0,0,0,1,0,0,
+439,Romarinho,br BRA,MF,FW,Sport Recife,31-130,1994,0.7,3,4.15,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+440,Ãngel Romero,py PAR,FW,MF,Corinthians,33-005,1992,6.7,12,1.79,10,0,1,1,0,0,2,0.3,2,0,0,0,0,0
+441,Lucas Romero,ar ARG,MF,Cruzeiro,31-082,1994,10.5,19,1.81,16,2,0,0,0,1,2,0.19,2,0,0,0,0,0,
+442,Ã“scar Romero,py PAR,MF,Internacional,33-005,1992,2.9,15,5.21,11,4,0,0,0,0,1,0.35,1,0,0,0,0,0,
+443,Romulo,br BRA,MF,FW,CearÃ¡,23-275,2001,1.4,12,8.85,7,3,0,2,0,0,0,0,0,0,0,0,0,0
+444,RÃ´mulo,br BRA,DF,AtlÃ©tico Mineiro,21-159,2004,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+445,Ronald,br BRA,MF,VitÃ³ria,28-021,1997,7.9,23,2.92,20,1,0,0,1,1,1,0.13,0,0,0,0,1,0,
+446,Ronald,br BRA,DF,MF,GrÃªmio,22-148,2003,1.6,1,0.63,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+447,Ronaldo,br BRA,GK,Bahia,28-321,1996,3.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+448,Ronaldo,br BRA,MF,Internacional,28-259,1996,7.6,6,0.79,6,0,0,0,0,0,0,0,0,0,0,0,0,0,
+449,Budiga Roni,br BRA,MF,Mirassol,26-085,1999,0.9,2,2.14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+450,Rony,br BRA,FW,AtlÃ©tico Mineiro,30-059,1995,11.2,24,2.14,14,0,0,6,4,0,2,0.18,1,0,0,0,1,0,
+451,Vitor Roque,br BRA,FW,Palmeiras,20-131,2005,5.6,20,3.56,14,0,1,1,4,0,0,0,0,0,0,0,0,0,
+452,Diego Rosa,br BRA,MF,DF,Internacional,22-270,2002,1.9,3,1.56,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,Matheus Rossetto,br BRA,MF,Fortaleza,29-036,1996,5.6,5,0.89,4,1,0,0,0,0,0,0,0,0,0,0,0,0,
+454,AgustÃ­n Rossi,ar ARG,GK,Flamengo,29-322,1995,11,5,0.45,5,0,0,0,0,0,0,0,0,0,0,0,0,0,
+455,Ruan,br BRA,DF,SÃ£o Paulo,26-032,1999,4,2,0.5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+456,Rubens,br BRA,DF,MF,AtlÃ©tico Mineiro,24-018,2001,10.5,28,2.67,20,0,3,2,1,2,2,0.19,0,0,1,1,0,0
+457,Alan Ruschel,br BRA,DF,Juventude,35-320,1989,7.6,16,2.1,7,4,1,0,2,2,0,0,0,0,0,0,0,0,
+458,Rwan,br BRA,FW,Botafogo (RJ),24-050,2001,1.9,3,1.61,3,0,0,0,0,0,0,0,0,0,0,0,0,0,
+459,JosÃ© Sabino,br BRA,DF,SÃ£o Paulo,28-257,1996,4.6,7,1.52,7,0,0,0,0,0,0,0,0,0,0,0,0,0,
+460,Rodrigo Sam,br BRA,DF,Juventude,29-350,1995,4,4,0.99,4,0,0,0,0,0,0,0,0,0,0,0,0,0,
+461,Alex Sandro,br BRA,DF,Flamengo,34-164,1991,8.3,17,2.04,15,1,0,1,0,0,1,0.12,1,0,0,0,0,0,
+462,AgustÃ­n Sant'Anna,uy URU,DF,RB Bragantino,27-285,1997,1.5,6,4.09,2,3,0,0,0,1,0,0,0,0,0,0,0,0,
+463,Alex Santana,br BRA,MF,Corinthians,30-057,1995,1.2,2,1.7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+464,Ademir Santos,br BRA,FW,Bahia,30-143,1995,5.9,19,3.23,11,0,3,0,5,0,0,0,0,0,0,0,0,0,
+465,Eduardo Santos,br BRA,DF,FW,RB Bragantino,27-223,1997,2,2,1.02,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+466,JÃºnior Santos,br BRA,FW,MF,AtlÃ©tico Mineiro,30-271,1994,1.5,7,4.63,5,0,0,1,1,0,0,0,0,0,0,0,0,0
+467,Rodrigo Santos,br BRA,FW,Fortaleza,24-294,2000,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+468,Renzo Saravia,ar ARG,DF,AtlÃ©tico Mineiro,32-023,1993,1.5,5,3.26,1,0,0,1,1,2,0,0,0,0,0,0,0,0,
+469,Eduardo Sasha,br BRA,FW,MF,RB Bragantino,33-135,1992,9.6,31,3.24,21,0,2,8,0,0,3,0.31,1,0,0,2,0,0
+470,Lucas Sasha,br BRA,MF,Fortaleza,35-130,1990,7.3,9,1.23,8,0,0,1,0,0,0,0,0,0,0,0,0,0,
+471,Jefferson Savarino,ve VEN,MF,FW,Botafogo (RJ),28-240,1996,6.5,26,3.97,23,3,0,0,0,0,2,0.31,1,1,0,0,0,0
+472,Gustavo Scarpa,br BRA,MF,FW,AtlÃ©tico Mineiro,31-185,1994,10.6,57,5.36,33,20,1,2,1,0,1,0.09,1,0,0,0,0,0
+473,JoÃ£o Schmidt,br BRA,MF,Santos,32-051,1993,6.9,10,1.45,9,1,0,0,0,0,1,0.15,1,0,0,0,0,0,
+474,Cleiton Schwengber,br BRA,GK,RB Bragantino,27-324,1997,11,1,0.09,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+475,Kevin Serna,co COL,FW,Fluminense,27-204,1997,4,14,3.46,10,0,2,0,2,0,1,0.25,0,0,0,0,1,0,
+476,Igor Serrote,br BRA,DF,GrÃªmio,20-130,2005,4.2,3,0.72,2,1,0,0,0,0,0,0,0,0,0,0,0,0,
+477,Juan Sforza,ar ARG,MF,Vasco da Gama,23-145,2002,0.8,4,5.07,4,0,0,0,0,0,0,0,0,0,0,0,0,0,
+478,Aderlan Silva,br BRA,DF,Santos,34-325,1990,1,2,2.09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+479,AndrÃ© Silva,br BRA,FW,SÃ£o Paulo,28-036,1997,8.8,20,2.27,16,0,1,3,0,0,2,0.23,2,0,0,0,0,0,
+480,Guilherme Silva,br BRA,FW,Corinthians,18-153,2007,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+481,JoÃ£o Silva,pt POR,DF,Sport Recife,26-176,1999,8,4,0.5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,
+482,Lucas Silva,br BRA,MF,Cruzeiro,32-143,1993,9.8,23,2.34,19,0,0,4,0,0,2,0.2,2,0,0,0,0,0,
+483,Patrick Silva,br BRA,MF,AtlÃ©tico Mineiro,21-112,2004,2.5,2,0.8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,
+484,Thiago Silva,br BRA,DF,Fluminense,40-290,1984,7,3,0.43,2,0,0,1,0,0,1,0.14,0,0,0,1,0,0,
+485,CÃ©dric Soares,pt POR,DF,FW,SÃ£o Paulo,33-312,1991,7,15,2.13,13,2,0,0,0,0,1,0.14,1,0,0,0,0,0
+486,Everton Soares,br BRA,FW,MF,Flamengo,29-109,1996,5.6,15,2.7,8,1,4,1,0,1,2,0.36,2,0,0,0,0,0
+487,Tiquinho Soares,br BRA,FW,Santos,34-173,1991,7.6,15,1.97,12,0,1,0,2,0,4,0.52,4,0,0,0,0,0,
+488,Fernando Sobral,br BRA,MF,CearÃ¡,30-204,1994,8.1,16,1.98,13,1,0,0,2,0,0,0,0,0,0,0,0,0,
+489,Yeferson Soteldo,ve VEN,FW,MF,Santos,28-009,1997,3.6,18,4.97,12,1,3,1,1,0,1,0.28,1,0,0,0,0,0
+490,Souza,br BRA,DF,Santos,19-023,2006,2.5,3,1.2,2,1,0,0,0,0,2,0.8,1,1,0,0,0,0,
+491,Fabiano Souza,br BRA,DF,CearÃ¡,25-117,2000,9.3,12,1.29,10,1,0,0,0,1,3,0.32,3,0,0,0,0,0,
+492,Hugo Souza,br BRA,GK,Corinthians,26-159,1999,7,1,0.14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+493,Igor VinÃ­cius de Souza,br BRA,DF,SÃ£o Paulo,28-099,1997,1.8,5,2.74,3,1,0,1,0,0,0,0,0,0,0,0,0,0,
+494,Everaldo Stum,br BRA,FW,Fluminense,34-004,1991,5.3,14,2.64,11,0,0,3,0,0,0,0,0,0,0,0,0,0,
+495,Bruno Tabata,br BRA,FW,MF,Internacional,28-101,1997,4.8,29,6.07,19,3,3,2,2,0,0,0,0,0,0,0,0,0
+496,Gabriel Taliari,br BRA,FW,Juventude,28-087,1997,6,13,2.17,6,0,1,2,4,0,1,0.17,1,0,0,0,0,0,
+497,TchÃª TchÃª,br BRA,MF,FW,Vasco da Gama,32-313,1992,6.5,16,2.45,13,1,0,0,2,0,1,0.15,1,0,0,0,0,0
+498,Alex Teixeira,br BRA,MF,FW,Vasco da Gama,35-184,1990,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+499,Alex Telles,br BRA,DF,Botafogo (RJ),32-206,1992,6.2,17,2.75,9,5,0,2,1,0,0,0,0,0,0,0,0,0,
+500,Thaciano,br BRA,FW,MF,Santos,30-058,1995,3.7,9,2.45,4,0,1,3,0,1,0,0,0,0,0,0,0,0
+501,Thalys,br BRA,FW,Palmeiras,20-137,2005,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+502,Tiago,br BRA,FW,MF,Bahia,20-092,2005,1.2,2,1.59,1,0,0,0,1,0,2,1.59,1,0,0,0,1,0
+503,Guilherme Tinga,br BRA,DF,Fortaleza,31-311,1993,5,7,1.41,5,2,0,0,0,0,0,0,0,0,0,0,0,0,
+504,Titi,br BRA,DF,Fortaleza,37-119,1988,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+505,FÃ©lix Torres Caicedo,ec ECU,DF,Corinthians,28-179,1997,5.1,5,0.98,4,0,1,0,0,0,0,0,0,0,0,0,0,0,
+506,Facundo Torres,uy URU,MF,FW,Palmeiras,25-087,2000,7,20,2.84,15,2,1,0,2,0,2,0.28,2,0,0,0,0,0
+507,Bruno TubarÃ£o,br BRA,FW,MF,CearÃ¡,30-126,1995,0.4,2,5.45,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+508,Enner Valencia,ec ECU,FW,Internacional,35-247,1989,4.6,6,1.3,2,0,1,2,1,0,0,0,0,0,0,0,0,0,
+509,Vanderlan,br BRA,DF,Palmeiras,22-305,2002,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+510,Guillermo Varela,uy URU,DF,MF,Flamengo,32-107,1993,3.5,4,1.15,4,0,0,0,0,0,2,0.58,2,0,0,0,0,0
+511,Pablo Vegetti,ar ARG,FW,Vasco da Gama,36-267,1988,10.2,6,0.59,3,0,0,3,0,0,1,0.1,0,0,0,1,0,0,
+512,Raphael Veiga,br BRA,MF,Palmeiras,30-020,1995,1.8,6,3.27,1,3,0,1,1,0,1,0.55,0,0,0,0,1,0,
+513,Fausto Vera,ar ARG,MF,AtlÃ©tico Mineiro,25-105,2000,4.9,12,2.46,12,0,0,0,0,0,1,0.21,1,0,0,0,0,0,
+514,Gabriel Veron,br BRA,FW,MF,Santos,22-309,2002,1.4,7,5.12,5,1,0,1,0,0,0,0,0,0,0,0,0,0
+515,JoÃ£o Victor,br BRA,DF,Mirassol,27-310,1997,11,10,0.91,8,0,0,1,0,1,0,0,0,0,0,0,0,0,
+516,JoÃ£o Victor,br BRA,FW,CearÃ¡,21-073,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+517,JoÃ£o Victor,br BRA,DF,Vasco da Gama,26-357,1998,12,7,0.58,7,0,0,0,0,0,0,0,0,0,0,0,0,0,
+518,Viery,br BRA,DF,GrÃªmio,20-188,2005,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+519,Lucas Villalba,ar ARG,DF,Cruzeiro,30-324,1994,8.8,10,1.13,8,0,0,2,0,0,0,0,0,0,0,0,0,0,
+520,MathÃ­as Villasanti,py PAR,MF,GrÃªmio,28-166,1997,9.2,18,1.95,14,2,0,1,0,1,0,0,0,0,0,0,0,0,
+521,MatÃ­as ViÃ±a,uy URU,DF,Flamengo,27-242,1997,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+522,VitÃ£o,br BRA,DF,Internacional,25-157,2000,10,5,0.5,5,0,0,0,0,0,1,0.1,1,0,0,0,0,0,
+523,Vitinho,br BRA,FW,Internacional,26-099,1999,4.2,5,1.2,3,0,0,1,1,0,1,0.24,0,0,0,1,0,0,
+524,Vitinho,br BRA,DF,Botafogo (RJ),25-351,1999,9.8,20,2.05,18,1,1,0,0,0,0,0,0,0,0,0,0,0,
+525,Rayan Vitor,br BRA,FW,Vasco da Gama,18-340,2006,8.8,25,2.84,13,0,2,4,6,0,4,0.45,2,0,0,1,1,0,
+526,Tiago Volpi,br BRA,GK,GrÃªmio,34-202,1990,12,2,0.17,1,1,0,0,0,0,1,0.08,0,1,0,0,0,0,
+527,Wagner,br BRA,DF,GrÃªmio,25-351,1999,11.3,4,0.35,4,0,0,0,0,0,1,0.09,1,0,0,0,0,0,
+528,Walace,br BRA,MF,Cruzeiro,30-096,1995,1.1,4,3.75,4,0,0,0,0,0,1,0.94,1,0,0,0,0,0,
+529,Wallace,br BRA,MF,FW,Flamengo,20-151,2005,0.4,5,12.16,4,0,0,0,1,0,2,4.86,2,0,0,0,0,0
+530,Walter,br BRA,GK,Mirassol,37-233,1987,5,2,0.4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,
+531,Wanderson,br BRA,FW,MF,Cruzeiro,30-275,1994,9.6,41,4.27,24,7,3,5,2,0,3,0.31,3,0,0,0,0,0
+532,Deivid Washington,br BRA,FW,Santos,20-034,2005,3.5,7,2.01,5,0,0,0,1,1,1,0.29,1,0,0,0,0,0,
+533,JosÃ© Welison,br BRA,MF,Fortaleza,30-120,1995,4.7,9,1.91,9,0,0,0,0,0,0,0,0,0,0,0,0,0,
+534,Wendell,br BRA,DF,SÃ£o Paulo,31-354,1993,4.6,10,2.17,8,1,0,0,1,0,0,0,0,0,0,0,0,0,
+535,Wesley,br BRA,DF,Flamengo,21-306,2003,7.9,21,2.65,17,0,0,0,4,0,3,0.38,1,0,0,0,2,0,
+536,Wesley,br BRA,FW,MF,Internacional,26-101,1999,8.5,28,3.3,15,0,6,3,3,1,3,0.35,2,0,1,0,0,0
+537,WÃ©verton,br BRA,GK,Palmeiras,37-208,1987,11,3,0.27,3,0,0,0,0,0,0,0,0,0,0,0,0,0,
+538,William,br BRA,DF,Cruzeiro,30-097,1995,5.9,22,3.75,12,6,0,1,2,1,3,0.51,3,0,0,0,0,0,
+539,Willian,br BRA,MF,VitÃ³ria,32-054,1993,1.8,3,1.63,3,0,0,0,0,0,0,0,0,0,0,0,0,0,
+540,EstÃªvÃ£o Willian,br BRA,MF,FW,Palmeiras,18-076,2007,9.2,43,4.66,25,11,2,3,2,0,3,0.32,2,1,0,0,0,0
+541,Mateus Xavier,br BRA,FW,MF,Santos,18-010,2007,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+542,Samuel Xavier,br BRA,DF,Fluminense,35-033,1990,8.2,19,2.3,17,1,0,0,1,0,2,0.24,2,0,0,0,0,0,
+543,Yago,br BRA,MF,Mirassol,30-156,1995,4.1,9,2.19,7,0,0,1,1,0,0,0,0,0,0,0,0,0,
+544,Yago,br BRA,MF,Internacional,18-154,2007,0.8,4,4.93,2,2,0,0,0,0,0,0,0,0,0,0,0,0,
+545,Lukas Zuccarello,br BRA,FW,Vasco da Gama,18-219,2006,0.3,1,3.75,1,0,0,0,0,0,0,0,0,0,0,0,0,0,

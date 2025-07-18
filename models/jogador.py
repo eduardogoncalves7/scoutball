@@ -1,50 +1,65 @@
 class Jogador:
-    def __init__(self, nome, idade, altura, pais, liga, clube, posicao, pe_bom, estatisticas, valor_estimado):
+    def __init__(self, nome, idade, pais, liga, clube, posicao, estatisticas):
         self.nome = nome
         self.idade = idade
-        self.altura = altura
         self.pais = pais
         self.liga = liga
-        self.clube = clube 
+        self.clube = clube
         self.posicao = posicao
-        self.pe_bom = pe_bom
         self.estatisticas = estatisticas
-        self.valor_estimado = valor_estimado
         self.metricas = self.calcular_metricas()
 
     def calcular_metricas(self):
-        minutos = self.estatisticas.get("minutos", 1)
+        minutos = self.estatisticas.get("minutos", 0)
         gols = self.estatisticas.get("gols", 0)
-        assists = self.estatisticas.get("assistencias", 0)
+        gols_por_90min = (gols / minutos) * 90 if minutos > 0 else 0
+
         return {
-            "gols_por_90min": (gols / minutos) * 90,
-            "participacoes_em_gols": gols + assists
+            "gols_por_90min": gols_por_90min
         }
 
-    def mostrar_info(self):       
+    def mostrar_info(self):
+        # Traduções legíveis
+        posicao_legivel = {
+            'fw': 'Atacante',
+            'mf': 'Meio-Campista',
+            'df': 'Defensor',
+            'gk': 'Goleiro'
+        }
+
+        pais_legivel = {
+            'br': 'Brasil', 'bra': 'Brasil',
+            'uru': 'Uruguai', 'arg': 'Argentina',
+            'eng': 'Inglaterra', 'fra': 'França',
+            'por': 'Portugal', 'col': 'Colômbia',
+            'ven': 'Venezuela', 'chi': 'Chile',
+            'per': 'Peru'
+        }
+
+        # Posição
+        posicoes_formatadas = []
+        for pos in self.posicao:
+            pos_lower = pos.strip().lower()
+            posicoes_formatadas.append(posicao_legivel.get(pos_lower, pos.capitalize()))
+        posicoes_str = ", ".join(posicoes_formatadas)
+
+        # Nacionalidade
+        pais_codigo = self.pais.strip().lower()
+        pais_str = pais_legivel.get(pais_codigo, self.pais.upper())
+
+        # Estatísticas básicas
         gols = self.estatisticas.get("gols", 0)
-        assistencias = self.estatisticas.get("assistencias", 0)
         minutos = self.estatisticas.get("minutos", 0)
-        partidas = round(minutos / 90, 1)
+        partidas = round(minutos / 90, 1) if minutos > 0 else 0
 
-        print(f'Nome: {self.nome}')
-        print(f'Idade: {self.idade} anos')
-        print(f'Altura: {self.altura} cm')
-        print(f'Posição: {self.posicao}')
-        print(f'Pé dominante: {self.pe_bom}')
-        print(f'País: {self.pais}')
-        print(f'Liga: {self.liga}')
-        print("\n📊 Estatísticas:")
-        print(f'Partidas disputadas: {partidas}')
-        print(f'Gols: {gols}')
-        print(f'Assistências: {assistencias}')
-        print(f'Minutos jogados: {minutos}')
-        print(f'Média Gols por 90 min: {self.metricas["gols_por_90min"]:.2f}')
-        print(f'Participações em gols: {self.metricas["participacoes_em_gols"]:.2f}')
-        print("\n💰 Valores:")
-        print(f'Valor estimado: €{self.valor_estimado:,}')
-        print(f'Custo por participação de gol: €{self.custo_beneficio():,.2f}')
-
-    def custo_beneficio(self):
-        participacoes = self.metricas.get("participacoes_em_gols", 1)
-        return self.valor_estimado / participacoes if participacoes > 0 else float('inf')
+        print("📌 Informações do Jogador:")
+        print(f"🧑 Nome: {self.nome}")
+        print(f"🎂 Idade: {self.idade} anos")
+        print(f"🌍 País: {pais_str}")
+        print(f"🏟️ Clube: {self.clube} | Liga: {self.liga}")
+        print(f"🎯 Posição: {posicoes_str}")
+        print(f"\n📊 Estatísticas em campo:")
+        print(f"⏱️ Minutos: {minutos:.0f} | Partidas estimadas: {partidas}")
+        print(f"⚽ Gols: {gols}")
+        print(f"📈 Gols por 90 minutos: {self.metricas['gols_por_90min']:.2f}")
+        print("🔹" * 40 + "\n")
