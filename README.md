@@ -1,98 +1,42 @@
-# ScoutBall ⚽📊
+ScoutBall ⚽
+Análise e scouting de alta performance, inspirada na metodologia Moneyball.
 
-**ScoutBall** é um projeto simples de análise de jogadores de futebol com foco em identificar atletas promissores ou experientes que ainda podem agregar valor a um time. A proposta foi inspirada no filme *Moneyball*, valorizando a eficiência e desempenho estatístico, mesmo fora dos holofotes.
+O ScoutBall é uma interface web projetada para identificar talentos através de métricas de eficiência. Em vez de focar no valor de mercado ou popularidade, a ferramenta prioriza o desempenho estatístico puro, permitindo encontrar "pechinchas" e jogadores subestimados.
 
+🔗 Acesse o projeto: https://eduardogoncalves7.github.io/scoutball/
 
-## 🚀 Funcionalidades
+🎯 Conceito
+Inspirado no filme Moneyball, o projeto aplica o conceito de "comprar vitórias, não jogadores". A métrica central é a eficiência por tempo em campo, filtrando o ruído de grandes nomes para focar em quem realmente entrega resultados.
 
-- Exibe estatísticas detalhadas dos jogadores:
-  - Nome, posição, idade, altura, clube e liga
-  - Gols marcados
-  - Minutos jogados e média de gols por 90 minutos
-- Apresenta as informações de forma clara e organizada no terminal
+📊 Métricas de Análise
+A ferramenta processa os dados brutos e gera indicadores automáticos:
 
+G/90 (Gols por 90 minutos): A métrica definitiva de eficiência ofensiva.
 
-## 📷 Exemplo de saída no terminal
+Partidas Estimadas: Normalização do tempo em campo para comparação justa entre titulares e reservas.
 
-📌 Informações do Jogador:
-🧑 Nome: Kaio Jorge
-🎂 Idade: 23 anos
-🌍 País: Brasil
-🏟️ Clube: Cruzeiro | Liga: Série A
-🎯 Posição: Atacante
+Ratings de Desempenho:
 
-📊 Estatísticas em campo:
-⏱️ Minutos: 909 | Partidas estimadas: 10.1
-⚽ Gols: 11
-📈 Gols por 90 minutos: 1.09
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+💎 ELITE: G/90 ≥ 0.70
 
+✅ SOLID: G/90 ≥ 0.30
 
+⚠️ AVG: G/90 < 0.30
 
-## 📁 Estrutura do projeto
+🛠 Tecnologias
+Para garantir máxima performance e carregamento instantâneo, o projeto foi construído com:
 
-scoutball/
-├── jogadores.csv # Dados dos jogadores
-├── filtro.py # Código principal de análise
-├── utils.py # Funções auxiliares (se houver)
-├── README.md # Este arquivo
+HTML5 & CSS3 (Design minimalista e responsivo)
 
+JavaScript Puro (Vanilla) (Lógica de filtragem e cálculos em tempo real)
 
-## 🧠 Aprendizados
+Google Fonts (Bebas Neue para uma estética esportiva moderna)
 
-Este projeto foi desenvolvido com o objetivo de praticar os seguintes conceitos:
+🚀 Próximos Passos
+[ ] Implementar comparação lado a lado entre dois atletas.
 
-- Manipulação de arquivos CSV com Python
-- Cálculos estatísticos simples
-- Organização de código em módulos
-- Simulação de uma análise técnica de desempenho (scouting)
-- Versionamento com Git e GitHub
+[ ] Adicionar métrica de A/90 (Assistências por 90 minutos).
 
----
+[ ] Importação dinâmica de bases de dados via CSV.
 
-## 🛠 Tecnologias utilizadas
-
-- **Python 3.10+**
-- **Editor:** Visual Studio Code (VS Code)
-- **Terminal:** Prompt de Comando / PowerShell
-
----
-
-## 💡 Próximos passos
-
-- Adicionar filtros personalizados (posição, idade mínima/máxima etc.)
-- Melhorar visual da saída no terminal
-- Criar uma interface simples com HTML e JavaScript (versão Web local)
-
----
-
-## 📚 Créditos e inspiração
-
-Projeto desenvolvido como parte do aprendizado pessoal, inspirado por:
-
-- O filme *Moneyball* (2011)
-- Estatísticas de futebol e fantasy games
-- Modos de jogo como FIFA Career Mode e Ultimate Team
-
----
-
-## 📌 Como executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/SEU_USUARIO/scoutball.git
-Entre na pasta do projeto:
-
-bash
-Copiar
-Editar
-cd scoutball
-Execute o script principal:
-
-bash
-Copiar
-Editar
-python filtro.py
-
-📄 Licença
-Este projeto tem fins educacionais. Sinta-se à vontade para estudar, adaptar ou evoluir o código conforme seu aprendizado.
+[ ] Exportação de relatórios de scouting.
