@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ScoutBall ⚽ — Série A 2025</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <header>
+    <div class="logo">
+      <span class="logo-text">SCOUT<span class="logo-accent">BALL</span></span>
+      <span class="logo-tag">SÉRIE A · BRASILEIRÃO 2025</span>
+    </div>
+    <div class="header-meta">
+      761 jogadores · FBRef Data<br>
+      Eficiência acima do hype
+    </div>
+  </header>
+
+  <div class="filters-bar">
+    <div class="filter-group">
+      <label>Posição</label>
+      <select id="filter-pos">
+        <option value="">Todas</option>
+        <option value="Atacante">Atacante</option>
+        <option value="Meia">Meia</option>
+        <option value="Zagueiro">Zagueiro</option>
+        <option value="Goleiro">Goleiro</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label>Clube</label>
+      <select id="filter-club">
+        <option value="">Todos</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label>Idade máx.</label>
+      <div class="range-row">
+        <input type="range" id="filter-age" min="15" max="45" value="45"/>
+        <span class="range-val" id="age-val">45</span>
+      </div>
+    </div>
+
+    <div class="filter-group">
+      <label>G/90 mín.</label>
+      <div class="range-row">
+        <input type="range" id="filter-g90" min="0" max="1.5" step="0.05" value="0"/>
+        <span class="range-val" id="g90-val">0.00</span>
+      </div>
+    </div>
+
+    <div class="filter-group">
+      <label>Min. jogados</label>
+      <div class="range-row">
+        <input type="range" id="filter-min" min="0" max="3000" step="90" value="0"/>
+        <span class="range-val" id="min-val">0</span>
+      </div>
+    </div>
+
+    <div class="filter-group">
+      <label>Ordenar por</label>
+      <select id="filter-sort">
+        <option value="g90">Gols por 90</option>
+        <option value="goals">Total de Gols</option>
+        <option value="shots">Chutes</option>
+        <option value="shot_acc">Precisão chutes</option>
+        <option value="minutes">Minutos jogados</option>
+        <option value="age">Idade</option>
+      </select>
+    </div>
+
+    <button class="btn-apply" onclick="applyFilters()">▶ APLICAR</button>
+  </div>
+
+  <main>
+    <div class="section-header">
+      <span class="section-title">JOGADORES ANALISADOS</span>
+      <span class="count-badge" id="count-badge">0 resultados</span>
+    </div>
+    <div id="players-grid"></div>
+  </main>
+
+  <div class="modal-overlay" id="modal" onclick="closeModal(event)">
+    <div class="modal" id="modal-content">
+      <button class="modal-close" onclick="closeModalBtn()">✕</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="data/players.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
